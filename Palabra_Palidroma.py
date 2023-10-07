@@ -11,9 +11,8 @@ def es_palindroma(palabra):
     else:
         return False
 
+
 # Funcion para inrgresar una palabra y verificar si es o no palíndroma
-
-
 def main():
     palabra = input("Ingrese una palabra: ")
 
